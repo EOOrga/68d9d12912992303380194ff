@@ -298,9 +298,9 @@ class OpsApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const primary = Color(0xFFFF8A00);
+    const primary = Color(0xFF23FBB7);
     const charcoal = Color(0xFF11181D);
-    const steel = Color(0xFF52616D);
+    const steel = Color(0xFF23D3FB);
     const paper = Color(0xFFF5F2EC);
 
     return MaterialApp(
@@ -508,7 +508,7 @@ class DashboardScreen extends StatelessWidget {
         ),
         const SizedBox(height: 18),
         SectionHeader(
-          title: 'Priorites du jour',
+          title: 'ASS SAUVEGARDE DES SITES DE LA',
           trailing: '${store.items.length} enregistrements',
         ),
         const SizedBox(height: 10),

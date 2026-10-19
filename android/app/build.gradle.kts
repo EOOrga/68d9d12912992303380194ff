@@ -27,7 +27,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.taziggg100.ass_sauvegarde_sites"
+        applicationId = "com.tazig_site"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

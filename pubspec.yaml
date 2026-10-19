@@ -1,4 +1,4 @@
-name: ass_sauvegarde_sites
+name: tazig_site
 description: Offline operations app for appointments, tasks, payroll reports, and asset tracking.
 publish_to: 'none'
 version: 1.0.0+1
@@ -27,5 +27,5 @@ flutter:
 flutter_launcher_icons:
   android: true
   image_path: docs/icon.png
-  adaptive_icon_background: "#11181D"
+  adaptive_icon_background: "#2367FB"
   adaptive_icon_foreground: docs/icon.png
